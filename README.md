@@ -1,5 +1,5 @@
 # Flight-Booking-System
- <p>A Java-based console application developed by Pinnacle Labs</p>
+
     </header>
 
    <section>
