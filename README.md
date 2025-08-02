@@ -1,9 +1,7 @@
 # Flight-Booking-System
 
-    </header>
-
-   <section>
-        <h2>Project Overview</h2>
+ 
+ <h2>Project Overview</h2>
         <p>This Java application simulates a complete flight booking system with multiple airlines, seat selection, and passenger management. Built entirely with core Java concepts, it demonstrates object-oriented programming principles in a real-world scenario.</p>
   
   <strong>Core Technologies:</strong> Java SE 17+ | OOP Principles | Console I/O
